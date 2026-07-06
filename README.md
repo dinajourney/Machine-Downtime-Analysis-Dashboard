@@ -32,6 +32,8 @@ The insights can support maintenance teams in prioritizing preventive maintenanc
 
 The dataset contains machine health records collected at regular time intervals across multiple factories.
 
+[Dataset](Dataset/data.json.zip)
+
 ### Variables
 
 | Variable | Description |
@@ -63,13 +65,13 @@ The analysis followed these steps:
 
 **🔗 Tableau Public**
 
-> **Paste your Tableau Public link here**
+> **[Paste your Tableau Public link here](https://public.tableau.com/views/ManufacturingDowntimeAnalysis_17831773006660/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 
 ---
 
 ### Dashboard Preview
 
-![Dashboard](images/dashboard.png)
+![Dashboard](Dataset/DASHBOARD.png)
 
 ---
 
