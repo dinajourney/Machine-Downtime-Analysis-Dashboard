@@ -63,9 +63,7 @@ The analysis followed these steps:
 
 ### Interactive Dashboard
 
-**🔗 Tableau Public**
-
-> **[Paste your Tableau Public link here](https://public.tableau.com/views/ManufacturingDowntimeAnalysis_17831773006660/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
+**🔗 [Tableau Public](https://public.tableau.com/views/ManufacturingDowntimeAnalysis_17831773006660/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 
 ---
 
@@ -103,33 +101,6 @@ Based on the analysis, the following actions are recommended:
 - Data Aggregation
 - Data Storytelling
 - Business Insight Generation
-
----
-
-# Repository Structure
-
-```
-machine-downtime-analysis-tableau/
-│
-├── data/
-│   └── machine_health_data.xlsx
-│
-├── dashboard/
-│   └── Machine_Downtime_Dashboard.twbx
-│
-├── images/
-│   └── dashboard.png
-│
-└── README.md
-```
-
----
-
-# How to Use
-
-1. Open the interactive Tableau dashboard using the Tableau Public link above.
-2. Explore downtime by factory and device type.
-3. Use the visualizations to identify operational trends and maintenance priorities.
 
 ---
 
